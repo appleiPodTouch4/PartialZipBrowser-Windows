@@ -3,4 +3,4 @@ PartialZipBrowser for Windows version
 
 Original repositories [PartialZipBrowser](https://github.com/C0deH4cker/PartialZipBrowser)
 
-usage:.\pzb.exe <zip url>
+usage:.\pzb.exe <"zip url">
